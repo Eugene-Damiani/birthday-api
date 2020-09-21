@@ -7,6 +7,7 @@ const cors = require('cors')
 const exampleRoutes = require('./app/routes/example_routes')
 const userRoutes = require('./app/routes/user_routes')
 const wishList = require('./app/routes/wishlist_routes')
+const profile = require('./app/routes/profile_routes')
 
 // require middleware
 const errorHandler = require('./lib/error_handler')
@@ -65,6 +66,7 @@ app.use(requestLogger)
 app.use(exampleRoutes)
 app.use(userRoutes)
 app.use(wishList)
+app.use(profile)
 
 // register error handling middleware
 // note that this comes after the route middlewares, because it needs to be
