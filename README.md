@@ -2,6 +2,14 @@
 
 The purpose of this app is to provide a single place for users to keep track of birthdays and purchase gifts for the people closest to the user. Future verisons will include wish list for specail events for items to bring to the event.
 
+## Repo Links
+
+<ul>
+  <li> Client Link: https://github.com/Eugene-Damiani/birthday-client/edit/master/README.md </li>
+  <li> API Link: https://github.com/Eugene-Damiani/birthday-api </li>
+  <li> Deployed Link: https://sheltered-lowlands-65291.herokuapp.com </li>
+</ul>
+
 
 ## User Story
 
