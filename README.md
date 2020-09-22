@@ -5,9 +5,9 @@ The purpose of this app is to provide a single place for users to keep track of 
 ## Repo Links
 
 <ul>
-  <li> Client Link: https://github.com/Eugene-Damiani/birthday-client/edit/master/README.md </li>
-  <li> API Link: https://github.com/Eugene-Damiani/birthday-api </li>
-  <li> Deployed Link: https://sheltered-lowlands-65291.herokuapp.com </li>
+  <li> Client Repo: https://github.com/Eugene-Damiani/birthday-client/edit/master/README.md </li>
+  <li> API Repo: https://github.com/Eugene-Damiani/birthday-api </li>
+  <li> Deployed App: https://sheltered-lowlands-65291.herokuapp.com </li>
 </ul>
 
 
@@ -42,5 +42,8 @@ Verison 1
 The plan for this project was to gain an understanding of hooks and how to implement them in an application. I created schedule of each day and what needed to get done before I shutdown my laptop. There were a few issues that had me fall behind and not reach my stretch goals. 1. Was gaining proficiency on how to use hooks 2. I had issues with running my curl-scripts because of permission issue that ended up being solved by using the chmod command. 3. The time it take to read through documentation to be able to implement additional features.
 
 ## WireFrame and Home Page
+![Screen Shot 2020-09-22 at 5 35 29 AM](https://user-images.githubusercontent.com/65584864/93882786-8c284f00-fc95-11ea-9526-6818094ccc28.png)
 
-https://sheltered-lowlands-65291.herokuapp.com
+![Screen Shot 2020-09-22 at 5 43 38 AM](https://user-images.githubusercontent.com/65584864/93883584-9bf46300-fc96-11ea-9607-7af81cb9b389.png)
+
+<img width="1436" alt="Screen Shot 2020-09-22 at 3 56 16 AM" src="https://user-images.githubusercontent.com/65584864/93883012-ceea2700-fc95-11ea-9ebe-7b2b28db3e52.png">
