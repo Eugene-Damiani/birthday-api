@@ -2,13 +2,18 @@
 
 The purpose of this app is to provide a single place for users to keep track of birthdays and purchase gifts for the people closest to the user. Future verisons will include wish list for specail events for items to bring to the event.
 
-## Repo Links
+## Important Links
 
-<ul>
-  <li> Client Repo: https://github.com/Eugene-Damiani/birthday-client </li>
-  <li> API Repo: https://github.com/Eugene-Damiani/birthday-api </li>
-  <li> Deployed App: https://sheltered-lowlands-65291.herokuapp.com </li>
-</ul>
+- [Deployed Client](https://eugene-damiani.github.io/birthday-client/)
+- [Client Repo](https://github.com/Eugene-Damiani/birthday-client)
+- [Deployed API](https://sheltered-lowlands-65291.herokuapp.com)
+- [API Repo](https://github.com/Eugene-Damiani/birthday-api)
+
+## Set Up & Installation
+1. Fork and clone this repository.
+2. Run npm install.
+3. Checkout to a new branch.
+4. Run Nodemon development server with npm run server.
 
 
 ## User Story
@@ -20,12 +25,6 @@ Verison 1
 - user will be able to track birthday's of friends and loved ones.
 - user will be able to CRUD Wishlist items
 
-## Important Links
-
-- [Deployed Client](https://eugene-damiani.github.io/birthday-client/)
-- [Client Repo](https://github.com/Eugene-Damiani/birthday-client)
-- [Deployed API](https://sheltered-lowlands-65291.herokuapp.com)
-- [API Repo](https://github.com/Eugene-Damiani/birthday-api)
 
 ## Technology Used
 - MondoDB
