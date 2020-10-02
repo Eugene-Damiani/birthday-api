@@ -20,12 +20,29 @@ Verison 1
 - user will be able to track birthday's of friends and loved ones.
 - user will be able to CRUD Wishlist items
 
+## Important Links
+
+- [Deployed Client](https://eugene-damiani.github.io/birthday-client/)
+- [Client Repo](https://github.com/Eugene-Damiani/birthday-client)
+- [Deployed API](https://sheltered-lowlands-65291.herokuapp.com)
+- [API Repo](https://github.com/Eugene-Damiani/birthday-api)
+
 ## Technology Used
 - MondoDB
 - Nodemon
 - Express
 - React
 - Bootstrap
+
+### Catalog of Routes
+
+Verb         |	URI Pattern
+------------ | -------------
+GET | /wishlits
+GET | /wishlists/:id
+POST | /wishlists
+PATCH | /wishlists/:id/edit
+DELETE | /wishlists/:id
 
 ## Features To Be Added
 - Add a friend
